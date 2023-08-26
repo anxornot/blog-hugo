@@ -1,7 +1,7 @@
 baseURL = 'https://anxornot.github.io/blog-hugo/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "FixIt"
+theme = "m10c"
 
 [params]
 	author = "anxornot"
